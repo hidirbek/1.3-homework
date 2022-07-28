@@ -1,0 +1,44 @@
+body{
+    background-color: rgb(236, 92, 92);
+    text-transform: capitalize;
+}
+.header{
+    text-align: center;
+    color: #fff;
+    font-weight: 100;
+    font-size: 40px;
+}
+ul{
+    display: flex;
+    justify-content: space-around;
+    align-items: flex-end;
+
+}
+li{
+    width: 300px;
+    background-color: #fff;
+    list-style: none;
+    text-align: center;
+}
+.colored{
+    color: rgb(236, 92, 92);
+}
+.first{
+    height: 190px;
+}
+.second{
+    height: 250px;
+}
+.third{
+    height: 300px;
+}
+
+.rate-product{
+    font-weight: 300;
+    font-style: 30px;
+}
+.bold{
+    font-weight: 900;
+    text-transform: lowercase;
+}
+
